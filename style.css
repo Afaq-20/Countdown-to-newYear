@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(255, 197, 38);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.336);
+}
+.year{
+    font-size: 40px;
+}
+.container{
+    background-color: rgba(255, 170, 0, 0.707);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.same{
+    margin: 10px;
+    text-align: center;
+}
